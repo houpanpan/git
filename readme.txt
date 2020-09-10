@@ -7,3 +7,6 @@ this is the first time i learm git.
 hello world
 
 dddddddddd
+
+
+the first time to write github and push it 
