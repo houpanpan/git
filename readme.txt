@@ -1,5 +1,5 @@
 ddddit is a version control system
-git is free softwarei
+iigit is free softwarei
 
 hello git
 this is the first time i learm git.
